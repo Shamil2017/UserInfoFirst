@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UserInfoFirst</string>
+    <string name="tv_name">Укажите ваше имя</string>
+    <string name="tv_year">Укажите ваш год рождения</string>
+    <string name="btn_go">Нажать для ввода данных</string>
+</resources>
